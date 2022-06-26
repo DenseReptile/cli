@@ -1,0 +1,16 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1,
+    "workspacePrefix": "D:\\jerem\\Code\\Frameworks\\Lithesome"
+  },
+  "1 error pnpm": {
+    "fileName": "D:\\jerem\\Code\\Frameworks\\Lithesome\\packages\\cli\\package.json",
+    "code": "ERR_PNPM_JSON_PARSE",
+    "err": {
+      "name": "pnpm",
+      "message": "Unexpected end of JSON input while parsing empty string in D:\\jerem\\Code\\Frameworks\\Lithesome\\packages\\cli\\package.json",
+      "code": "ERR_PNPM_JSON_PARSE",
+      "stack": "pnpm: Unexpected end of JSON input while parsing empty string in D:\\jerem\\Code\\Frameworks\\Lithesome\\packages\\cli\\package.json\n    at parseJson (D:\\jerem\\.AppData\\scoop\\persist\\nvm\\nodejs\\v16.14.2\\node_modules\\pnpm\\dist\\pnpm.cjs:3133:27)\n    at readJsonFile (D:\\jerem\\.AppData\\scoop\\persist\\nvm\\nodejs\\v16.14.2\\node_modules\\pnpm\\dist\\pnpm.cjs:19606:42)\n    at async readExactProjectManifest (D:\\jerem\\.AppData\\scoop\\persist\\nvm\\nodejs\\v16.14.2\\node_modules\\pnpm\\dist\\pnpm.cjs:19739:34)\n    at async D:\\jerem\\.AppData\\scoop\\persist\\nvm\\nodejs\\v16.14.2\\node_modules\\pnpm\\dist\\pnpm.cjs:49269:16"
+    }
+  }
+}
